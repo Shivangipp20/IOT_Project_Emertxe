@@ -16,7 +16,8 @@ Tools Used
 
 ***
 
-Video Explaination <a href
+Video Explaination <a href = "https://youtu.be/3jdWA51pCmQ"><i>here.</a>
+
 <details>
 <summary><strong>Misc Mini Learning Projects</strong></summary>
 <ol>
